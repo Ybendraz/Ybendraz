@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Yahia BENDRAZ and I am an aerospace engineer :rocket: specialized in control and estimation theories, my curiosity expands to all of scientific fields and especially computer science.
-### In order to fortify my skills in this field, 🌱 I’m currently learning low-level language such as C & C++.
+### In order to fortify my skills in this field, 🌱 I’m currently learning low-level programming languages such as C & C++.
 ### The main projects I will be working on are related with the aerospace domain (Autopilot, navigation using Kalman filter, etc)
 📫 How to reach me:- Email : bendrazyahia2000@gmail.com
                    - Phone number: +(33)650368973
