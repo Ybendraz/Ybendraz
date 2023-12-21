@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 my name is Yahia BENDRAZ and I am an aerospace engineer :rocket: specialized in control and estimation theories, my curiosity expands to all of scientific fields and especially computer science.
 
 <!--
 **Ybendraz/Ybendraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
